@@ -33,7 +33,10 @@
 .contents-item img{
     height:200px;
     width:300px;
-    
+}
+
+.contents-item{
+    text-align:center;
 }
 
 .contents{
